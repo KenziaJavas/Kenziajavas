@@ -81,7 +81,7 @@ Here are the technologies I work with. I'm always excited to learn more!
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bagassdwipermanaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kenziajavasniscalaputra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagassdwipermanaa&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 <p align="center">
@@ -93,7 +93,7 @@ Here are the technologies I work with. I'm always excited to learn more!
 ### 🐍 My GitHub Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bagassdwipermanaa/bagassdwipermanaa/output/github-contribution-grid-snake.svg" alt="Snake contribution grid">
+  <img src="https://raw.githubusercontent.com/kenziajavasniscalaputra/kenziajavasniscalaputra/output/github-contribution-grid-snake.svg" alt="Snake contribution grid">
 </p>
 
 ---
@@ -147,7 +147,7 @@ Here are some of the projects I'm proud of.
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bagassdwipermanaa&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kenziajvasniscalaputra&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -157,7 +157,7 @@ Here are some of the projects I'm proud of.
   <p>Feel free to reach out for collaborations or just a friendly chat.</p>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=bagassdwipermanaa&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=kenziajavasniscalaputra&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
   </p>
   
   <p>
