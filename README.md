@@ -10,16 +10,16 @@
     <a href="https://linkedin.com/in/bagas-dwi-permana/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://instagram.com/bagassdwipermanaa" target="_blank">
+    <a href="https://www.instagram.com/kenzijvs?igsh=MWw3ank4d295aHQ2NA==" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
-    <a href="https://bagasdwipermana.netlify.app" target="_blank">
+    <a href="https://kenziajavasniscalaputra.netlify.app" target="_blank">
       <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
     </a>
-    <a href="mailto:bagastelkomschool@gmail.com">
+    <a href="mailto:javastelkomschool@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://discord.com/users/zasazszazsa">
+    <a href="https://discord.com/users/1409389508914450442">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
   </p>
@@ -34,7 +34,7 @@ I'm a student and a self-driven developer with a strong passion for building bea
 - 🌱 I’m currently diving deep into *React, Node.js, and Backend Development*.
 - 👯 I’m looking to collaborate on *innovative web projects* and open-source contributions.
 - 💬 Ask me about *Java, C#, Python, or UI/UX design principles*.
-- 📫 How to reach me: *bagastelkomschool@gmail.com* or connect with me on LinkedIn!
+- 📫 How to reach me: *javastelkomschool@gmail.com* or connect with me on LinkedIn!
 - ⚡ Fun fact: I believe the best code is written while listening to *lo-fi beats and the sound of rain* ☔.
 
 ---
@@ -161,6 +161,6 @@ Here are some of the projects I'm proud of.
   </p>
   
   <p>
-    <b>Made with ❤ by Bagas Dwi Permana</b>
+    <b>Made with ❤ KENZIA JAVAS NISCALA PUTRA </b>
   </p>
 </div>
